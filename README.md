@@ -12,5 +12,10 @@ There are many illegal groups using the telephone operating system or SMS to ste
 ## 更新紀錄 Update Logs
 * Insert 75 rows data of fake-investment-blacklist.txt (111/05/02-05/08)
 
-## 資料來源
+## 資料來源 Resource
 1. [165全民防騙](https://www.facebook.com/165bear)
+2. [內政部警政署165全民反騙網](https://165.npa.gov.tw)
+
+## 特別感謝 Special Thanks
+
+喜歡這個服務的朋友也可以到 [SecTools.tw](https://sectools.tw) 逛逛學習一些資安知識唷!
