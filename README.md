@@ -22,6 +22,6 @@ There are many illegal groups using the telephone operating system or SMS to ste
 
 喜歡這個服務的朋友也可以到 [SecTools.tw](https://sectools.tw) 逛逛學習一些資安知識唷!
 
-## License
+## 協議 License
 
 [Apache-2.0 license](/LICENSE)
