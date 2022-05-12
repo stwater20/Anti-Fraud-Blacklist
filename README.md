@@ -24,4 +24,4 @@ There are many illegal groups using the telephone operating system or SMS to ste
 
 ## License
 
-(Apache-2.0 license)[/LICENSE]
+[Apache-2.0 license](/LICENSE)
