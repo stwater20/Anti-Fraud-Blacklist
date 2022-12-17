@@ -10,6 +10,7 @@ There are many illegal groups using the telephone operating system or SMS to ste
 - [ ] Create AdGuard Filter Policy File
 
 ## 更新紀錄 Update Logs
+* Insert 13,146 rows data of malicious-LINE-ID.txt (106/1/2-111/12/12) (Updated on 2022/12/17)
 * Insert 10 rows data of scam-call-blacklist.txt (111/05/09-05/15) (Updated on 2022/05/18)
 * Insert 75 rows data of fake-investment-blacklist.txt (111/05/02-05/08) (Updated on 2022/05/12)
 * Insert 134 rows data of notified-offshore-accounts.txt (111/05/09) (Updated on 2022/05/12)
